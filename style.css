@@ -1,0 +1,43 @@
+h1 {
+    font-size: 50px; 
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.stroki{
+    background-color:Olive; 
+    color:white; 
+    border:1px solid lightgrey;
+}
+.stroki1 {
+    border:1px solid lightgrey;
+}
+
+.stroki2 {
+    background-color:Olive; 
+    color:white; 
+    padding: 5px;
+}
+
+.stroka1 {
+    background-color:burlywood; 
+    border:1px solid lightgrey; 
+    padding: 5px;
+}
+
+.stroka2 {
+    background-color:burlywood; 
+    padding: 5px;
+}
+
+.padd {
+    padding: 5px;
+}
+
+.padd1 {
+    border:1px solid lightgrey; 
+    padding: 5px;
+}
